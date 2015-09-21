@@ -1,2 +1,3 @@
-# fwl
-Fitbit Water Logger
+# fitbit
+
+Fitbit command line tool
